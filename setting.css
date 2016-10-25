@@ -1,0 +1,11 @@
+body {background-color:Wheat;}
+h1 {color:black;font-size:20pt;font-family:Palatino, serif;}
+hr {color:black;}
+p {font-family:Palatino;color:black;font-size:11pt;margin-left:20px;}
+p.end {font-family:Palatino;color:black;font-size:8pt;text-align:right;}
+
+a {text-decoration:none}
+a:link {color:SlateGrey}
+a:visited {color:FireBrick;}
+a:hover {color:LightSlateGray;}
+a:active {color:black;}
