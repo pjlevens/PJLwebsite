@@ -2,10 +2,10 @@ body {background-color:Wheat;}
 h1 {color:black;font-size:20pt;font-family:Palatino, serif;}
 hr {color:black;}
 p {font-family:Palatino;color:DarkRed;font-size:11pt;margin-left:20px;}
-p.end {font-family:Palatino;color:DarkRed;font-size:8pt;text-align:right;}
+p.end {font-family:Palatino;color:black;font-size:8pt;text-align:right;}
 
 a {text-decoration:none}
-a:link {color:SlateGrey}
+a:link {color:DarkSlateGray}
 a:visited {color:Maroon;}
 a:hover {color:LightGray;}
 a:active {color:black;}
